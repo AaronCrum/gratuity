@@ -1,8 +1,5 @@
 /* 
- *  Name: Aaron Crum
- *  CSU ID: 2698195 
- *  CIS 265: Lab 3
- *  Description: Write a program that reads the subtotal and the gratuity rate and then computes the gratuity and total. 
+ *  Description: A program that reads the subtotal and the gratuity rate and then computes the gratuity and total
 */
 
 import java.util.Scanner;
